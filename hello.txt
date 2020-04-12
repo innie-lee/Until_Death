@@ -1,1 +1,1 @@
-This is test attempt of my Github usage.
+브랜치 작업 시험용 텍스트 파일을 작성했습니다.
